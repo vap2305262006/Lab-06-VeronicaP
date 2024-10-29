@@ -60,14 +60,8 @@ top: 0px;}
     width: 600px;
     background-size: cover;}
 
-.background-image-repeat{
-    background-image: url(https://lumiere-a.akamaihd.net/v1/images/databank_cloudcity_01_169_e589ba2c.jpeg?region=301%2C0%2C1170%2C878);
-background-repeat:repeat-x;
-background-repeat: repeat-y;
-height: 500px;
-width: 600px;
-background-size: cover;
-}
+body{background-image: url(https://lumiere-a.akamaihd.net/v1/images/databank_cloudcity_01_169_e589ba2c.jpeg?region=301%2C0%2C1170%2C878);
+    background-repeat: repeat;}
 
 .box12{
     background-color: rgb(81, 26, 111);
